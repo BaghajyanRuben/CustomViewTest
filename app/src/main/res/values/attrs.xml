@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeedometerView">
+        <attr name="min_value" format="integer"/>
+        <attr name="max_value" format="integer"/>
+        <attr name="display_color" format="color"/>
+        <attr name="arrow_color" format="color"/>
+    </declare-styleable>
+</resources>
